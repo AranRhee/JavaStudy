@@ -1,4 +1,4 @@
-package aran;
+package codingTest.programmers.level1;
  import java.util.*;
 
 class Muji {

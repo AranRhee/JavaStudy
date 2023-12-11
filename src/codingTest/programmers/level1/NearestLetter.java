@@ -1,4 +1,4 @@
-package aran;
+package codingTest.programmers.level1;
 
 public class NearestLetter {
     // 6점, 24분 소요

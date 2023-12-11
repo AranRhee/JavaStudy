@@ -1,4 +1,4 @@
-package aran;
+package codingTest.programmers.level1;
 
 class SortMyStyle {
     public String[] solution(String[] strings, int n) {

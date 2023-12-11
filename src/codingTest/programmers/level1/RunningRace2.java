@@ -1,4 +1,4 @@
-package aran;
+package codingTest.programmers.level1;
 import java.util.*;
 class RunningRace2 {
     public String[] solution(String[] players, String[] callings) {

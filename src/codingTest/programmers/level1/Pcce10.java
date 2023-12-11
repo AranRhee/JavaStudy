@@ -2,9 +2,12 @@ package codingTest.programmers.level1;
 
 import java.util.*;
 
+// PCCE 10번 기출문제
 // 18분 8점
 class Pcce10 {
+
     public int[][] solution(int[][] data, String ext, int val_ext, String sort_by) {
+
         int[][] answer = {};
         List<int[]> filterList = new ArrayList<int[]>();
         int extIdx = getIndex(ext);
