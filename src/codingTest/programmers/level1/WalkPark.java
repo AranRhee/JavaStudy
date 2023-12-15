@@ -49,7 +49,7 @@ public class WalkPark {
         int x = 0;
         int y = 0;
         for(int i=0; i<park.length; i++){
-            if(park[i].indexOf("S") != -1){
+            if(park[i].contains("S")){
                 y = i;
                 x = park[i].indexOf("S");
             }

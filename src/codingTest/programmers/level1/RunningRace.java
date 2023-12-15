@@ -6,6 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 class RunningRace {
+    // 달리기 경주 : 시간 초과(68.8%)
     public String[] solution(String[] players, String[] callings) {
         String tmp;
         for (String calling : callings) {

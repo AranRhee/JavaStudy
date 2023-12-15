@@ -1,6 +1,7 @@
 package codingTest.programmers.level1;
 import java.util.*;
 class RunningRace2 {
+    // 달리기 경주 : 시간 초과 75%)
     public String[] solution(String[] players, String[] callings) {
         int idx = 0;
         String tmp = null;
